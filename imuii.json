@@ -1,0 +1,11 @@
+{
+  "name": "ideachef",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "ideachef",
+  "email": "aandwim1@gmail.com",
+  "secretKey": "imuii_0b73eb6e71b2b351bbfe4709a43d4c5517e25f7f1d862da417e2b2e189c7822e",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/ideachef-668ed1e2.git"
+}
